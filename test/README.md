@@ -1,14 +1,14 @@
 ## Question2 
 
-# section 1
+### section 1
 1. Fork the course repository. 
 2. Create a directory called Test. 
 3. Add a markdown file to your Test directory called readme.md. 
 4. Edit the readme file using markdown syntax to include a description of what you've done. 
 5. Create screenshots to show what you've done and hand in the screenshots.
 
-# section 2
-commands
+### section 2
+- commands
 
 ```
 PS1=">"
